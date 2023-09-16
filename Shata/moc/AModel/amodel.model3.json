@@ -254,6 +254,11 @@
 				{
 					"File":"../../motion/waiting/EyeBlink.motion3.json"
 				}
+			],
+			"waiting2":[
+				{
+					"File":"../../motion/waiting/EyeBlink2.motion3.json"
+				}
 			]
 		}
 	},
