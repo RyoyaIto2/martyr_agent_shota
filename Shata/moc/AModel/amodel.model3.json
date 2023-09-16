@@ -248,7 +248,14 @@
 				"Name": "surprised11-10",
 				"File": "../../motion/Surprised/Surprised_10.exp3.json"
 			}
-		]
+		],
+		"Motions":{
+			"waiting":[
+				{
+					"File":"../../motion/waiting/EyeBlink.motion3.json"
+				}
+			]
+		}
 	},
 	"Groups": [
 		{
