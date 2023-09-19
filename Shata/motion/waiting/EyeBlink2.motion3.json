@@ -5,13 +5,35 @@
 		"Fps": 60.0,
 		"Loop": true,
 		"AreBeziersRestricted": false,
-		"CurveCount": 4,
-		"TotalSegmentCount": 7,
-		"TotalPointCount": 23,
+		"CurveCount": 5,
+		"TotalSegmentCount": 9,
+		"TotalPointCount": 30,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
 	"Curves": [
+		{
+			"Target": "Model",
+			"Id": "Opacity",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.08,
+				1,
+				0.17,
+				1,
+				0.25,
+				1,
+				1,
+				0.33,
+				1,
+				0.42,
+				1,
+				0.5,
+				1
+			]
+		},
 		{
 			"Target": "Model",
 			"Id": "EyeBlink",
