@@ -250,7 +250,7 @@
 			},
 			{
 				"Name": "Neutral",
-				"File": "Neutral.exp3.json"
+				"File": "../../motion/waiting/Neutral.exp3.json"
 			}
 		],
 		"Motions": {
