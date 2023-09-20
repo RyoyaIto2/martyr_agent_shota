@@ -247,17 +247,21 @@
 			{
 				"Name": "surprised11-10",
 				"File": "../../motion/Surprised/Surprised_10.exp3.json"
+			},
+			{
+				"Name": "Neutral",
+				"File": "Neutral.exp3.json"
 			}
 		],
-		"Motions":{
-			"waiting":[
+		"Motions": {
+			"waiting": [
 				{
-					"File":"../../motion/waiting/EyeBlink.motion3.json"
+					"File": "../../motion/waiting/EyeBlink.motion3.json"
 				}
 			],
-			"waiting2":[
+			"waiting2": [
 				{
-					"File":"../../motion/waiting/EyeBlink2.motion3.json"
+					"File": "../../motion/waiting/EyeBlink2.motion3.json"
 				}
 			]
 		}
@@ -266,15 +270,16 @@
 		{
 			"Target": "Parameter",
 			"Name": "EyeBlink",
-			"Ids": ["ParamEyeOpenL",
-					"ParamEyeOpenR"	
-				]
+			"Ids": [
+				"ParamEyeOpenL",
+				"ParamEyeOpenR"
+			]
 		},
 		{
 			"Target": "Parameter",
 			"Name": "LipSync",
 			"Ids": []
 		}
-    ],
+	],
 	"HitAreas": []
 }
