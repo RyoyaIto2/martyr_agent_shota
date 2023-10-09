@@ -1,5 +1,6 @@
 {
 	"Type": "Live2D Expression",
+	"FadeOutTime": 1.5,
 	"Parameters": [
 		{
 			"Id": "ParamNeutral",
