@@ -249,6 +249,46 @@
 				"File": "../../motion/Surprised/Surprised_10.exp3.json"
 			},
 			{
+				"Name": "regret11-1",
+				"File": "../../motion/Regret/Regret_01.exp3.json"
+			},
+			{
+				"Name": "regret11-2",
+				"File": "../../motion/Regret/Regret_02.exp3.json"
+			},
+			{
+				"Name": "regret11-3",
+				"File": "../../motion/Regret/Regret_03.exp3.json"
+			},
+			{
+				"Name": "regret11-4",
+				"File": "../../motion/Regret/Regret_04.exp3.json"
+			},
+			{
+				"Name": "regret11-5",
+				"File": "../../motion/Regret/Regret_05.exp3.json"
+			},
+			{
+				"Name": "regret11-6",
+				"File": "../../motion/Regret/Regret_06.exp3.json"
+			},
+			{
+				"Name": "regret11-7",
+				"File": "../../motion/Regret/Regret_07.exp3.json"
+			},
+			{
+				"Name": "regret11-8",
+				"File": "../../motion/Regret/Regret_08.exp3.json"
+			},
+			{
+				"Name": "regret11-9",
+				"File": "../../motion/Regret/Regret_09.exp3.json"
+			},
+			{ 
+				"Name": "regret11-10",
+				"File": "../../motion/Regret/Regret_10.exp3.json"
+			},
+			{
 				"Name": "Neutral",
 				"File": "../../motion/Waiting/Neutral.exp3.json"
 			}
