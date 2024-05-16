@@ -232,6 +232,36 @@
 			"Name": "口　変形"
 		},
 		{
+			"Id": "ParamDominance",
+			"GroupId": "ParamGroup10",
+			"Name": "支配的"
+		},
+		{
+			"Id": "ParamEyeLOpen_Dominance",
+			"GroupId": "ParamGroup10",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen_Dominance",
+			"GroupId": "ParamGroup10",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBrowL_Dominance",
+			"GroupId": "ParamGroup10",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowR_Dominance",
+			"GroupId": "ParamGroup10",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouth_Dominance",
+			"GroupId": "ParamGroup10",
+			"Name": "口　変形"
+		},
+		{
 			"Id": "ParamAngleX",
 			"GroupId": "ParamGroup11",
 			"Name": "角度 X"
@@ -319,6 +349,11 @@
 			"Name": "後悔"
 		},
 		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "支配的笑顔"
+		},
+		{
 			"Id": "ParamGroup11",
 			"GroupId": "",
 			"Name": "頭部XYZ"
@@ -340,6 +375,10 @@
 		}
 	],
 	"Parts": [
+		{
+			"Id": "Part18",
+			"Name": "支配_男性.psd"
+		},
 		{
 			"Id": "Part33",
 			"Name": "着色稿_手.psd"

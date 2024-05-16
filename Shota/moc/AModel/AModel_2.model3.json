@@ -289,6 +289,46 @@
 				"File": "../../motion/Regret/Regret_10.exp3.json"
 			},
 			{
+				"Name": "Dominance11-1",
+				"File": "../../motion/Dominance/Dominance01.exp3.json"
+			},
+			{
+				"Name": "Dominance11-2",
+				"File": "../../motion/Dominance/Dominance02.exp3.json"
+			},
+			{
+				"Name": "Dominance11-3",
+				"File": "../../motion/Dominance/Dominance03.exp3.json"
+			},
+			{
+				"Name": "Dominance11-4",
+				"File": "../../motion/Dominance/Dominance04.exp3.json"
+			},
+			{
+				"Name": "Dominance11-5",
+				"File": "../../motion/Dominance/Dominance05.exp3.json"
+			},
+			{
+				"Name": "Dominance11-6",
+				"File": "../../motion/Dominance/Dominance06.exp3.json"
+			},
+			{
+				"Name": "Dominance11-7",
+				"File": "../../motion/Dominance/Dominance07.exp3.json"
+			},
+			{
+				"Name": "Dominance11-8",
+				"File": "../../motion/Dominance/Dominance08.exp3.json"
+			},
+			{
+				"Name": "Dominance11-9",
+				"File": "../../motion/Dominance/Dominance09.exp3.json"
+			},
+			{ 
+				"Name": "Dominance11-10",
+				"File": "../../motion/Dominance/Dominance10.exp3.json"
+			},
+			{
 				"Name": "Neutral",
 				"File": "../../motion/Waiting/Neutral.exp3.json"
 			}
